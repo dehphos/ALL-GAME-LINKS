@@ -6,7 +6,7 @@
   https://dehphos.github.io/game-v2/
 
 ## Rock Paper Scissors Simulation    
-  https://dehphos.github.io/rpc/
+  https://dehphos.github.io/rps/
 
 ## Sand Game
    https://dehphos.github.io/sandbox/
